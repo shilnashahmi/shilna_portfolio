@@ -16,3 +16,29 @@ development, and data visualization. Possesses strong analytical thinking, probl
 ## Interests
 
 ## Contact Details
+*Let’s connect and see how we can make a difference together!*  
+
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:shilnashahmi33@gmail.com">shilnashahmi33@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(+91) 974-401-2950</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Calicut, Kerala</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="Boniface_Boben_SrDataAnalyst_5YOE.pdf">Download my Resume</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://www.linkedin.com/in/boniboban">Let’s connect on LinkedIn</a></td>
+    </tr>
+  </tbody>
+</table>
